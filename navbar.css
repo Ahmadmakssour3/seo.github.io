@@ -1,0 +1,166 @@
+.navul {
+    display: none;
+}
+.heroimg {
+    width: 320px;
+    height: 193px;
+
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+.herosection {
+    flex-direction: column;
+   justify-content: center;
+   align-items: center;
+    gap: 30px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.herosection h1 {
+    width:80% ;
+}
+.heroh {
+    /* display: none; */
+}
+.message {
+    /* display: none; */
+}
+ /* .heroh2 {
+    display: block;
+    color: white;
+    margin: 40px auto;
+    font-size: 30px;
+    padding: 0px;
+    z-index: 3;
+    height: 140px;
+    width: 80%;
+
+} */
+.section1 {
+    flex-direction: column;
+    gap: 90px;
+    text-align: center;
+}
+.s0d1 {
+    text-align: center;
+}
+.navbar {
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    width: 100%;
+}
+.navbd {
+    padding-right: 90px;
+  }
+  .navbar {
+    flex-direction: row-reverse;
+  }
+.humburger-menu {
+    visibility: visible !important;
+  }
+.section2 div img {
+    width: 68vw;
+    height: 42.5vh;
+}
+.section2 {
+    flex-direction: column-reverse;
+
+}
+.section2 div p {
+padding: 0;
+margin: 0 auto;
+}
+.section2 div {
+    text-align: center;
+}
+.s2d1 {
+    width: 70%;
+}
+.hr0 {
+    margin: 0 auto;
+}
+.s2b1 {
+    margin: 0 auto;
+}
+.section3 {
+    flex-direction: column;
+    margin: 15px auto;
+    gap: 15px;
+    flex-wrap: 40px;
+    height: 1690px;
+
+}
+.section3 div {
+    flex-wrap: 10px;
+    position: absolute;
+    left: 8px;
+    width: 100%;
+}
+.section3 div img {
+    width: 100%;
+}
+.s3d1 {
+    top: 10px;
+}
+.s3d2 {
+    top: 290px;
+}
+.s3d3 {
+    top: 570px;
+}
+.s3d4 {
+    top: 850px;
+}
+.s3d5 {
+    top: 1130px;
+}
+.s3d6 {
+    top: 1410px;
+}
+.s4 .hr0 {
+    margin-bottom: 750px;
+}
+.section4 {
+    flex-direction: column;
+    margin-bottom: 480px;
+    gap: 230px;
+}
+.section4 div {
+    width: 90%;
+}
+.section4 button {
+    top: 180px;
+    left: 100px;
+}
+.section5 {
+    grid-template-columns: 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
+
+}
+.section5head {
+    margin-top: 150px;
+}
+.section7 {
+    flex-direction: column;
+    gap: 140px;
+    align-items: center;
+}
+.section9 {
+    width: 370px;
+}
+.section10 {
+    flex-direction: column;
+    gap: 70x;
+    background-color: whitesmoke;
+    height: 750px;
+}
+.section11 {
+    gap: 25px;
+    background-color: rgb(148, 184, 227);
+    height: 370px;
+    margin: 0;
+}
+.section11 div p {
+    font-size: larger;
+}
